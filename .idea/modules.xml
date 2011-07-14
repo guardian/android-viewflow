@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/viewflow/Viewflow.iml" filepath="$PROJECT_DIR$/viewflow/Viewflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflow-example/Viewflow-example.iml" filepath="$PROJECT_DIR$/viewflow-example/Viewflow-example.iml" />
+    </modules>
+  </component>
+</project>
+

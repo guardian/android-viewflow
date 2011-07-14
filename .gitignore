@@ -1,4 +1,5 @@
 bin/
+out/
 .settings
 bin
 gen
