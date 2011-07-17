@@ -54,7 +54,12 @@ public class ViewFlow extends AdapterView<Adapter> {
 
 	private LinkedList<View> mLoadedViews;
 	private int mCurrentBufferIndex;
-	private int mCurrentAdapterIndex;
+
+    public int getCurrentAdapterIndex() {
+        return mCurrentAdapterIndex;
+    }
+
+    private int mCurrentAdapterIndex;
 	private int mSideBuffer = 2;
 	private Scroller mScroller;
 	private VelocityTracker mVelocityTracker;
